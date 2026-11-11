@@ -22,7 +22,7 @@
 - 使った技術: SAP BTP, SAP Business Application Studio, SAP Build Work Zone, SAP Build Process Automation, SAP CAP (Java/Node.js), SAP CI/CD Services, SAP HANA Cloud（特にHDI）, SAP AI Core（AI Agent）, SAP AI Launchpad, SAP Document AI, SAP Cloud Foundry Runtime, SAP Cloud Connector, XSUAA, SAP Destination Service, IAS, 生成AI
 
 ### 実績タイトル: 異動1年目で稼働率100%超を達成
-- 時期 / 所属: 2025/03〜2026/04 ・ SAP / Associate Technology Consultant
+- 時期 / 所属: 2025/03〜2026/03 ・ SAP / Associate Technology Consultant
 - 状況 (Situation): CSMから技術コンサルへ異動。KPIは稼働率。
 - 課題 (Task): 幅広いBTPソリューションを急ぎでキャッチアップしながら稼働する必要があった。
 - 行動 (Action): 幅広い案件を並行して進め、不足領域を急速にキャッチアップ。
@@ -38,7 +38,7 @@
 - 使った技術: 担当ソリューション: SAP BTP, S/4HANA, IBP, SuccessFactors
 
 ### 実績タイトル: S/4HANA拡張開発の BTP PoC 5件＋技術ブログ23本発信
-- 時期 / 所属: 2022/09〜2024/01 ・ SAP / Solutions Architect Intern（International Platform and Integration Labs）
+- 時期 / 所属: 2022/09〜2023/12 ・ SAP / Solutions Architect Intern（International Platform and Integration Labs）
 - 状況 (Situation): LLM普及前。顧客ニーズに応えるプロトタイプを設計・開発する役割。
 - 課題 (Task): S/4HANA拡張開発の価値を PoC で示し、社外に伝える。
 - 行動 (Action): BTP で S/4HANA 拡張開発の PoC を5件作成。各 PoC の技術解説とビジネスシナリオを SAP Community ブログで発信。

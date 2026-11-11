@@ -24,7 +24,7 @@
 
 #### Associate Technology Consultant（正社員）
 
-- 期間: 2025/03 – 2026/04 ・ Tokyo, Japan ・ Hybrid
+- 期間: 2025/03 – 2026/03 ・ Tokyo, Japan ・ Hybrid
 - 説明（LinkedIn原文）:
   > As an Associate Technology Consultant, I supported customers and internal teams across a broad range of BTP solutions. My responsibilities included conducting technical workshops, addressing technical inquiries and troubleshooting issues, and developing PoCs for custom BTP applications.
   > I worked with various BTP technologies and services, including SAP Cloud Application Programming Model (CAP) with both Java and Node.js, SAP Build Work Zone, SAP Identity Authentication Service (IAS), BTP user and authorization management, Cloud Transport Management Service (cTMS), SAP AI Core and so on.
@@ -42,7 +42,7 @@
 
 #### Solutions Architect Intern（インターン）
 
-- 期間: 2022/09 – 2024/01 ・ Tokyo, Japan
+- 期間: 2022/09 – 2023/12 ・ Tokyo, Japan
 - 所属: International Platform and Integration Labs
 - 説明（LinkedIn原文）:
   > As a member of the International Platform and Integration Labs team, I was responsible for designing and developing innovative prototypes to address customer needs.
@@ -87,4 +87,4 @@
 - 英語: Professional working proficiency
 - スウェーデン語: Elementary proficiency
 
-> 最終更新: 2026-11-10
+> 最終更新: 2026-11-11
