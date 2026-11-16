@@ -37,4 +37,6 @@
 - 英語: Professional working proficiency
 - スウェーデン語: Elementary proficiency
 
+> 学習用の方針・弱点・語彙メモは [language/](../language/overview.md) を参照。
+
 > 最終更新: 2026-11-16

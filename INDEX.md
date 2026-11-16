@@ -38,6 +38,14 @@
 | [thinking/opinions.md](thinking/opinions.md) | 技術・業界・働き方の持論 |
 | [thinking/frameworks.md](thinking/frameworks.md) | 意思決定・資料作成の型 |
 
+## language/（言語学習）
+
+| ファイル | 内容 |
+|----------|------|
+| [language/overview.md](language/overview.md) | 用途・共通方針・AIへの依頼の仕方・学習目的 |
+| [language/english.md](language/english.md) | 英語（実務レベル）の現状・目標・弱点・添削観点・語彙メモ |
+| [language/swedish.md](language/swedish.md) | スウェーデン語（初級）の現状・目標・弱点・学習観点・語彙メモ |
+
 ## その他
 
 | ファイル | 内容 |
