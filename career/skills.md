@@ -1,6 +1,6 @@
 # 技術スキル (skills)
 
-> ⚠️ 履歴書・スキルシート用。技術は [profile/linkedin.md](../profile/linkedin.md) から列挙済み。
+> ⚠️ 履歴書・スキルシート用。職歴は [career/history.md](history.md)、資格は [career/certifications.md](certifications.md) を参照。
 > **熟練度・経験年数は未確認 → 本人が記入**。レベルは例: 実務可 / 設計可 / 入門。
 
 | 技術 / 領域 | カテゴリ | 熟練度 | 経験年数 | 備考 |
@@ -31,4 +31,10 @@
 
 - （未記入 例: クラウド基盤 / DB / CI/CD / IaC 等）
 
-> 最終更新: 2026-11-11
+## 言語 (Languages)
+
+- 日本語: Native or bilingual proficiency
+- 英語: Professional working proficiency
+- スウェーデン語: Elementary proficiency
+
+> 最終更新: 2026-11-16

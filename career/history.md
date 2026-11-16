@@ -1,13 +1,7 @@
-# LinkedIn
+# 職歴・学歴 (history)
 
-- プロフィールURL: https://www.linkedin.com/in/umzk/
-
-## プロフィール
-
-- 氏名: Ryutaro Umezuki
-- 代名詞: He/Him
-- ヘッドライン: SAP
-- 所在地: Tokyo, Japan
+> ⚠️ 履歴書・職務経歴書・面接の素材。職歴と学歴の「事実」をここに集約。
+> 数字で語る実績は [career/achievements.md](achievements.md)、資格は [career/certifications.md](certifications.md)、スキルは [career/skills.md](skills.md) を参照。
 
 ## 職歴 (Experience)
 
@@ -68,23 +62,4 @@
   - Bachelor of Engineering (BE), Computer Science（交換留学）
   - TypeScript, React.js
 
-## 資格 (Licenses & Certifications)
-
-すべて SAP 発行。
-
-| 資格 | 取得 | 有効期限 |
-|------|------|----------|
-| SAP Certified - Security Administrator | 2026/08 | 2027/08 |
-| SAP Certified - Positioning the Autonomous Enterprise | 2026/06 | 2027/06 |
-| SAP Certified - SAP BTP Administrator | 2025/12 | 2027/02 |
-| SAP Certified - Solution Architect - SAP BTP | 2025/12 | 2027/02 |
-| SAP Certified Associate - Backend Developer - SAP Cloud Application Programming Model | 2025/05 | 2027/02 |
-| SAP Certified Associate - SAP Generative AI Developer | 2025/04 | 2027/02 |
-
-## 言語 (Languages)
-
-- 日本語: Native or bilingual proficiency
-- 英語: Professional working proficiency
-- スウェーデン語: Elementary proficiency
-
-> 最終更新: 2026-11-11
+> 最終更新: 2026-11-16
