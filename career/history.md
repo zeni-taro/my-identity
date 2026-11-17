@@ -5,7 +5,7 @@
 
 ## 職歴 (Experience)
 
-### SAP（計 4年3ヶ月）
+### SAP（約4年）
 
 #### Technology Consultant（正社員）
 
@@ -61,4 +61,4 @@
   - Bachelor of Engineering (BE), Computer Science（交換留学）
   - TypeScript, React.js
 
-> 最終更新: 2026-11-16
+> 最終更新: 2026-11-17
