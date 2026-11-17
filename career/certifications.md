@@ -11,4 +11,6 @@
 | SAP Certified Associate - Backend Developer - SAP Cloud Application Programming Model | 2025/05 | 2027/02 |
 | SAP Certified Associate - SAP Generative AI Developer | 2025/04 | 2027/02 |
 
-> 最終更新: 2026-11-16
+> メモ: 2027/02 期限の4件（BTP Administrator / Solution Architect - SAP BTP / Backend Developer - CAP / Generative AI Developer）は再認定予定。
+
+> 最終更新: 2026-11-17
