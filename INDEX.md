@@ -8,7 +8,7 @@
 |----------|------|
 | [profile/basic.md](profile/basic.md) | 氏名・ふりがな・ローマ字・生年月日・性別・代名詞・国籍 |
 | [profile/contact.md](profile/contact.md) | 住所・電話・メール・LinkedIn URL |
-| [profile/sizes.md](profile/sizes.md) | 服・靴のサイズ・名刺表記 |
+| [profile/sizes.md](profile/sizes.md) | 服・靴のサイズ |
 
 ## career/（職業人としての記録）
 
@@ -53,4 +53,4 @@
 | [README.md](README.md) | 使い方（最短） |
 | [CLAUDE.md](CLAUDE.md) | リポジトリ方針・運用ルール |
 
-> 最終更新: 2026-11-16
+> 最終更新: 2026-11-17

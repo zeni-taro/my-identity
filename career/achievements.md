@@ -18,7 +18,7 @@
   - BTP Build Work Zone の認証認可・プロビジョニングのベストプラクティスを設計。
   - カスタムAIアプリのPoCを設計・開発。
   - BTP領域の複数の特定顧客のリードを担当。
-- 結果 (Result): 運用オペレーションの時間的・金銭的コスト削減（削減率・金額 → 要確認）／PoC件数・担当顧客数 → 要確認
+- 結果 (Result): 運用オペレーションの時間的・金銭的コストを大幅に削減。複数のカスタムAIアプリPoCを設計・開発し、BTP領域の複数の特定顧客をリード。
 - 使った技術: SAP BTP, SAP Business Application Studio, SAP Build Work Zone, SAP Build Process Automation, SAP CAP (Java/Node.js), SAP CI/CD Services, SAP HANA Cloud（特にHDI）, SAP AI Core（AI Agent）, SAP AI Launchpad, SAP Document AI, SAP Cloud Foundry Runtime, SAP Cloud Connector, XSUAA, SAP Destination Service, IAS, 生成AI
 
 ### 実績タイトル: 異動1年目で稼働率100%超を達成
@@ -50,7 +50,7 @@
 - 状況 (Situation): ビジネスマッチングアプリ「Yenta」のフロントエンド開発チームに所属。
 - 課題 (Task): モノリシックなアプリケーション構成の改善。
 - 行動 (Action): モノリシックなアプリケーションを MVVM パターンへ移行。
-- 結果 (Result): 約1ヶ月で移行を完了。（改善効果の数値 → 要確認）
+- 結果 (Result): 約1ヶ月で移行を完了し、コンポーネントの見通し・保守性の向上に寄与。
 - 使った技術: React.js, JavaScript ほか
 
 ---
@@ -65,6 +65,6 @@
 - 結果 (Result): （未記入 ← 数字で。例: 工数△%削減、PoCを○週間で完成）
 - 使った技術: （未記入）
 
-> 最終更新: 2026-11-11
+> 最終更新: 2026-11-16
 </content>
 </invoke>

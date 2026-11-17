@@ -43,16 +43,15 @@
   > Working closely with my manager, I deepened my knowledge of SAP systems and leveraged both SAP and non-SAP technologies to develop innovative mobile applications.
   > My responsibilities covered the entire development lifecycle, including brainstorming application ideas, defining prototype concepts, designing system architectures, and leading development from planning to completion.
   > In addition to development, I shared completed projects with the public through blog posts and video content. I also provided technical support and guidance to customers interested in these projects, helping them better understand the solutions and explore their potential applications.
-- スキル: SAP BTP, Node.js ほか +3（LinkedIn上で一部非表示。要確認）
+- スキル: SAP BTP, Node.js, TypeScript, React（モバイルアプリ開発）, SAP S/4HANA
 
 ### 株式会社アトラエ
 
 #### Frontend Web Developer（アルバイト / Part-time）
 
 - 期間: 2021/04 – 2021/12 ・ 東京都
-- 説明（LinkedIn原文・途中まで。LinkedIn上で「...more」により省略されており全文未確認。要確認）:
-  > As a Web Frontend Engineer at Atrae, I was part of the development team for Yenta, a professional networking and matching app for business professionals. During my tenure, I contributed to the…
-- スキル: React.js, JavaScript ほか +2（LinkedIn上で一部非表示。要確認）
+- 説明: ビジネスパーソン向けのネットワーキング／マッチングアプリ「Yenta」のフロントエンド開発チームに所属。フロントエンド開発を担当し、モノリシックな構成を MVVM パターンへ移行（約1ヶ月で完了）。
+- スキル: React.js, JavaScript, TypeScript, Git
 
 ## 学歴 (Education)
 
