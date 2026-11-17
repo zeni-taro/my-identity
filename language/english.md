@@ -6,6 +6,7 @@
 ## 現状と目標
 
 - 現状レベル: Professional working proficiency（出典: [career/skills.md](../career/skills.md)）
+- スコア: TOEFL iBT 79点（2021年取得）。内訳: Reading 約25点 / Speaking が低め（Listening・Writing は未記録）
 - 目標レベル・期限: C1相当（ニュアンス・自然さを自在に扱えるレベル）
 - 重点テーマ: 英語面接
 
@@ -28,4 +29,4 @@
 
 - （未記入: 覚えたい単語・イディオム・コロケーションを蓄積）
 
-> 最終更新: 2026-11-16
+> 最終更新: 2026-11-17

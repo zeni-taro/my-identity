@@ -25,7 +25,6 @@
 | ファイル | 内容 |
 |----------|------|
 | [voice/writing.md](voice/writing.md) | 文体ルール（一人称・語尾・句読点・語彙・英語・絵文字） |
-| [voice/samples.md](voice/samples.md) | 本人の文章サンプル（文体模倣の教師データ） |
 | [voice/by-channel.md](voice/by-channel.md) | チャネル別トーンの使い分け |
 | [voice/doc-style.md](voice/doc-style.md) | ドキュメント作成の構成・体裁の好み |
 | [voice/ppt-style.md](voice/ppt-style.md) | パワポの構成・ルール・デザインの好み |
